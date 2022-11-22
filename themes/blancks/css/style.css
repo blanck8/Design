@@ -18,7 +18,7 @@ html, body {
 }
 
 body {
-    background-color: rgb(49, 117, 84);
+    background-color: #435648;
 }
 
 /* Placement */
@@ -26,6 +26,7 @@ body {
 body {
     display: flex;
     flex-direction: column;
+    padding: 3em 3em 3em 3em;
 }
 
 .main {
@@ -46,7 +47,7 @@ body {
 /* Title */
 
 .title, .logo {
-    padding: 3em 3em 3em 0;
+    padding: 3em 3em 3em 0.75em;
 }
 
 @media (max-width: 767px) {
@@ -90,7 +91,7 @@ body {
 body {
     font-family: sans-serif;
     line-height: 1.5rem;
-    color: #444;
+    color: rgb(10, 10, 10);
 }
 
 p, td, th, li, dd {
@@ -109,12 +110,15 @@ img {
 }
 
 img.me {
-max-width: 25%;
+max-width: 50%;
 height: auto;
 display: block;
 margin-left: auto;
 margin-right: auto;
-width: 50%;
+padding-top: 1em;
+padding-bottom: 1em;
+width: 25%;
+
 }
 
 /* BELOW ARE PREPARED STYLES FOR CODE/PRE/BLOCKQUOTE, FEEL FREE TO REMOVE IT  */
