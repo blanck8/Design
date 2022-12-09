@@ -5,7 +5,7 @@ Social:
     - title: Link to my github repo.
       url: https://github.com/blanck8
       icon: fab fa-github
-    - title: Link to this course webpage.
-      url: https://dbwebb.se/kurser/design-v3
-      icon: fa-solid fa-house
+    - title: Link to dbwebb's youtube.
+      url: https://www.youtube.com/@DbwebbSe
+      icon: fab fa-youtube
 ---
