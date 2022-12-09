@@ -1,8 +1,11 @@
 ---
 Logo: image/m.logo.png
-Tagline: My work
+Tagline: Majas Design
 Social:
     - title: Link to my github repo.
       url: https://github.com/blanck8
-      icon: github
+      icon: fab fa-github
+    - title: Link to this course webpage.
+      url: https://dbwebb.se/kurser/design-v3
+      icon: fa-solid fa-house
 ---
